@@ -12,17 +12,19 @@
 
 </h3>
 <div style="text-align: center;">
-> <h3 style="color: blue; font-size: 2em;text-align: center; "> Installing and configuring Nvim on Ubuntu without Sudo Premission is possible with this repository.</h3>
+<h3 style="color: blue; font-size: 2em;text-align: center; "> Installing and configuring Nvim on Ubuntu without Sudo Premission is possible with this repository.</h3>
 <br> 
 <img src="nvim.png" alt="Image description" title="Image Title" />
 </div>
 <br>
 <br>
 
-- [ ] clone repo in local Machine
+- [ ] clone repo in local Machine <br>
 **git clone https://github.com/ahmedez-zouine/Nvim_42_Nosudo.git ~/config_nvim && cd ~/neovim**
-- [ ] Run Script
+- [ ] Run Script <br>
 **Before running it, you must add permission to the file.**
 > chmod +x script_nvim
 
-<h4 style="text-align: center, color: blue, font-size : bold">---------------- AstroNvim successfully installed ------------------" <h4>
+<br>
+<br>
+<h4 style="text-align: center, color: blue, font-size : bold">AstroNvim successfully installed <h4>
