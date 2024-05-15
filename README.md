@@ -1,6 +1,6 @@
 
-<h4 align="center">
-  <h2>Hi EveryONE </h2>
+<h3 align="center">
+  <h2 align="center" >Hi EveryONE </h2>
 
 
             .___      __    ________                      
@@ -10,7 +10,7 @@
              \______  /\____/\____ |(____  /__|   \_______  /\_/  \___  >__|   
                     \/            \/     \/               \/          \/      
 
-</h4>
+</h3>
 <div style="text-align: center;">
 <h3 style="color: blue; font-size: 2em;"> Installing and configuring Nvim on Ubuntu without Sudo Premission is possible with this repository.</h3>
 <br> 
