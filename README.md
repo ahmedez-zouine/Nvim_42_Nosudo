@@ -1,14 +1,15 @@
 
-<h3 align="center">
-  **Hi everyone, my name is Azouine!**
-
+<h4 align="center">
+  <h2>Hi EveryONE </h2>
+<br>
+<br>
             .___      __    ________                      
             \_   ___ \  ____   __| _/_____/  |_  \_____  \___  __ ___________ 
              /    \  \/ /  _ \ / __ |\__  \   __\  /   |   \  \/ // __ \_  __ \
             \     \___(  <_> ) /_/ | / __ \_  |   /    |    \   /\  ___/|  | \/
              \______  /\____/\____ |(____  /__|   \_______  /\_/  \___  >__|   
                     \/            \/     \/               \/          \/      
-</h3>
+</h4>
 <div style="text-align: center;">
 <h3 style="color: blue; font-size: 2em;"> Installing and configuring Nvim on Ubuntu without Sudo Premission is possible with this repository.</h3>
 <br> 
