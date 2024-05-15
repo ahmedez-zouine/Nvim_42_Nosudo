@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  <h2 align="center" >Hi EveryONE </h2>
+  <h2 align="center" >Hi Every_1 </h2>
 
 
             .___      __    ________                      
@@ -12,7 +12,7 @@
 
 </h3>
 <div style="text-align: center;">
-<h3 style="color: blue; font-size: 2em;"> Installing and configuring Nvim on Ubuntu without Sudo Premission is possible with this repository.</h3>
+> <h3 style="color: blue; font-size: 2em;text-align: center; "> Installing and configuring Nvim on Ubuntu without Sudo Premission is possible with this repository.</h3>
 <br> 
 <img src="nvim.png" alt="Image description" title="Image Title" />
 <br>
@@ -24,3 +24,18 @@
 *Before running it, you must add permission to the file.*
 
 -[1] Deploy to production
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
