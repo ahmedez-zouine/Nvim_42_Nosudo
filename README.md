@@ -25,17 +25,10 @@
 
 -[1] Deploy to production
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+- [ ] clone repo in local Machine
+**git clone https://github.com/ahmedez-zouine/Nvim_42_Nosudo.git ~/config_nvim && cd ~/neovim**
+- [ ] Run Script
+**Before running it, you must add permission to the file.**
+> chmod +x script_nvim
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+<h2 style="text-align: center, color: blue, font-size : bold">---------------- AstroNvim successfully installed ------------------" <h2>
