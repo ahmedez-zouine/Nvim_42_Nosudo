@@ -26,5 +26,6 @@
 > chmod +x script_nvim
 
 <br>
+<img style="text-align: center" src="final.png" alt="Image description" title="Image Title" />
 <br>
 <h4 style="text-align: center, color: blue, font-size : bold">AstroNvim successfully installed <h4>
